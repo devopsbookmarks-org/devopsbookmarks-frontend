@@ -1,6 +1,7 @@
 # Frontend
 
 [![Build Status](https://heroku-badge.herokuapp.com/?app=devopsbookmarks-frontend)](https://heroku-badge.herokuapp.com/?app=devopsbookmarks-frontend)
+[![Build Status](https://travis-ci.com/devopsbookmarks-org/devopsbookmarks-frontend.svg?branch=main)](https://travis-ci.com/github/devopsbookmarks-org/devopsbookmarks-frontend)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
