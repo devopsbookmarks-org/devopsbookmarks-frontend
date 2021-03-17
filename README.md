@@ -1,6 +1,6 @@
-[![Build Status](https://heroku-badge.herokuapp.com/?app=devopsbookmarks-frontend)](https://heroku-badge.herokuapp.com/?app=devopsbookmarks-frontend)
-
 # Frontend
+
+[![Build Status](https://heroku-badge.herokuapp.com/?app=devopsbookmarks-frontend)](https://heroku-badge.herokuapp.com/?app=devopsbookmarks-frontend)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
